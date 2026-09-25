@@ -12,7 +12,7 @@
 
 Sou **Luiz Guilherme**, estudante de **Análise e Desenvolvimento de Sistemas na UNA** e **Técnico em Informática pelo SENAC**.
 
-Tenho interesse em **desenvolvimento de software, redes, infraestrutura, suporte técnico e cibersegurança**, buscando transformar o que aprendo em projetos práticos.
+Tenho interesse em **desenvolvimento de software, redes, infraestrutura, suporte técnico e cybersegurança**, buscando transformar o que aprendo em projetos práticos.
 
 Atualmente, estou ampliando meus conhecimentos em programação e desenvolvimento de aplicações por meio de projetos acadêmicos e pessoais.
 
