@@ -95,8 +95,8 @@ Busco uma oportunidade de **estágio ou posição de nível inicial em Tecnologi
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guivilhena2005&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guivilhena2005&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+<img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
+<img height="180em" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
 
 </div>
 
@@ -106,7 +106,11 @@ Busco uma oportunidade de **estágio ou posição de nível inicial em Tecnologi
 
 ### 🐍 Minhas contribuições
 
-<img src="https://raw.githubusercontent.com/Guivilhena2005/Guivilhena2005/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guivilhena2005/Guivilhena2005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guivilhena2005/Guivilhena2005/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Guivilhena2005/Guivilhena2005/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation">
+</picture>
 
 </div>
 
