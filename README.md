@@ -14,7 +14,7 @@ Sou **Luiz Guilherme**, estudante de **Análise e Desenvolvimento de Sistemas na
 
 Tenho interesse em **desenvolvimento de software, redes, infraestrutura, suporte técnico e cibersegurança**, buscando transformar o que aprendo em projetos práticos.
 
-Atualmente, estou aprofundando meus conhecimentos em **backend com Python**, APIs e organização de aplicações. Também estou me preparando para iniciar os estudos de **banco de dados**, conectando a teoria aos projetos que desenvolvo.
+Atualmente, estou aprofundando meus conhecimentos em **backend com Python e APIs** e comecei um curso de **banco de dados com duração de três semanas**, estudando modelagem relacional e organização dos dados.
 
 </div>
 
@@ -107,7 +107,7 @@ Busco uma oportunidade de **estágio ou posição de nível inicial em Tecnologi
 
 - Backend com Python e FastAPI
 - APIs REST e organização por camadas
-- Banco de dados (próxima etapa de estudos)
+- Banco de dados relacionais e modelagem: tabelas, tipos de dados, chaves primárias e estrangeiras, relacionamentos, normalização e documentação
 - Programação Orientada a Objetos
 - Desenvolvimento Web
 
