@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=008B7A&center=true&vCenter=true&repeat=true&width=650&lines=Bem-vindo+ao+meu+perfil!;Luiz+Guilherme+Vilhena+Pereira;Estudante+de+Tecnologia+da+Informação" alt="Bem-vindo ao meu perfil!" />
+<img src="./banner-github.png" width="100%" alt="Banner de Luiz Guilherme Vilhena Pereira" />
 
 </div>
 
