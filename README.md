@@ -42,10 +42,7 @@ Busco uma oportunidade de **estágio ou posição de nível inicial em Tecnologi
 - 🚌 **Expresso Planalto** — conceito de aplicação para facilitar o acesso a horários, informações e notícias do transporte público.
 - 🌐 **Conecta PA** — projeto para reunir e divulgar informações sobre ONGs de Pouso Alegre.
 - 🔐 **Projeto de Redes e Cibersegurança** — atividades acadêmicas envolvendo estrutura de rede, organização de IPs e segurança digital.
-- 🌐 **Esqueceram de Mim** — site funcional, mas o desenvolvimento do projeto foi descontinuado.
 - 🖥️ **Infraestrutura da APAC** — atividades de manutenção, limpeza, formatação e configuração de computadores.
-- 📦 **Sistema logístico da APAC** — projeto desenvolvido em parceria com a Magatron.
-- 🔎 **Site de itens perdidos** — projeto acadêmico em desenvolvimento.
 - 🎮 **Projetos de jogos** — experiências com desenvolvimento de jogos e ferramentas como Construct.
 
 ---
