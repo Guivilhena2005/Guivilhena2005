@@ -14,7 +14,7 @@ Sou **Luiz Guilherme**, estudante de **Análise e Desenvolvimento de Sistemas na
 
 Tenho interesse em **desenvolvimento de software, redes, infraestrutura, suporte técnico e cibersegurança**, buscando transformar o que aprendo em projetos práticos.
 
-Atualmente, estou ampliando meus conhecimentos em programação e desenvolvimento de aplicações por meio de projetos acadêmicos e pessoais.
+Atualmente, estou aprofundando meus conhecimentos em **backend com Python**, APIs e organização de aplicações. Também estou me preparando para iniciar os estudos de **banco de dados**, conectando a teoria aos projetos que desenvolvo.
 
 </div>
 
@@ -37,9 +37,12 @@ Busco uma oportunidade de **estágio ou posição de nível inicial em Tecnologi
 <h3 align="left">🚀 Projetos</h3>
 
 - 🎮 **Delta Trigger** — RPG textual desenvolvido em Java, com personagens, combates, habilidades, itens e missões.
+- 💰 **Passaporte dos 12 Salários** — projeto em desenvolvimento voltado ao acompanhamento de metas financeiras mensais, com interface, check-ins e conquistas; o backend e o login estão previstos para etapas futuras.
+- ⚙️ **Todo List API** — backend acadêmico em Python com FastAPI, cadastro e autenticação de usuários, gerenciamento de tarefas e camada de persistência com SQLAlchemy.
 - 🚌 **Expresso Planalto** — conceito de aplicação para facilitar o acesso a horários, informações e notícias do transporte público.
 - 🌐 **Conecta PA** — projeto para reunir e divulgar informações sobre ONGs de Pouso Alegre.
 - 🔐 **Projeto de Redes e Cibersegurança** — atividades acadêmicas envolvendo estrutura de rede, organização de IPs e segurança digital.
+- 🌐 **Esqueceram de Mim** — site funcional, mas o desenvolvimento do projeto foi descontinuado.
 - 🖥️ **Infraestrutura da APAC** — atividades de manutenção, limpeza, formatação e configuração de computadores.
 - 📦 **Sistema logístico da APAC** — projeto desenvolvido em parceria com a Magatron.
 - 🔎 **Site de itens perdidos** — projeto acadêmico em desenvolvimento.
@@ -71,7 +74,7 @@ Busco uma oportunidade de **estágio ou posição de nível inicial em Tecnologi
 
 <br>
 
-**Também:** Redes de computadores • Suporte técnico • Manutenção de computadores • Cibersegurança • Figma • Construct • Photoshop
+**Também:** SQLAlchemy • FastAPI • Uvicorn • Redes de computadores • Suporte técnico • Manutenção de computadores • Cibersegurança • Figma • Construct • Photoshop
 
 ---
 
@@ -99,6 +102,16 @@ Busco uma oportunidade de **estágio ou posição de nível inicial em Tecnologi
 ---
 
 <div align="center">
+
+### 📖 Atualmente estudando
+
+- Backend com Python e FastAPI
+- APIs REST e organização por camadas
+- Banco de dados (próxima etapa de estudos)
+- Programação Orientada a Objetos
+- Desenvolvimento Web
+
+---
 
 ### 🐍 Minhas contribuições
 
